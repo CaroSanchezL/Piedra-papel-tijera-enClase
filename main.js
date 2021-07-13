@@ -40,7 +40,5 @@ const jugada3 = jugarPiedraPapelTijera(respuestaUsuario1, respuestaUsuario2);
 if (puntajeDeUsuario1 > puntajeDeUsuario2){
     alert("Resultado final: Ganador Usuario 1!")
 } else if (puntajeDeUsuario1 < puntajeDeUsuario2){
-    alert("Resultado final: Ganador Usuario 2!") 
-} else {
-    alert("Resultado final: Empate!") 
+    alert("Resultado final: Ganador Usuario 2!")
 }
